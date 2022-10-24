@@ -20,7 +20,7 @@ Introduction
 
 A CircuitPython helper that confirms whether a specified year is a leap year.
 
-``LeapYear`` detects a valid leap year from an integer year value. Returns a
+``Leap Year`` detects a valid leap year from an integer year value. Returns a
 value of True if the input year value is a valid leap year. Returns False if not
 a valid leap year.
 
